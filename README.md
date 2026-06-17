@@ -1,3 +1,3 @@
 # Hey, I'm Jovan Melsyah 👋
 
-**Computer Science & Statistics @ Binus University · ML & data science enthusiast**
+**Computer Science & Statistics student @ Binus University · ML & data science enthusiast**
